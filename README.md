@@ -25,10 +25,10 @@ This project is a movie recommendation system built using Python, Pandas, scikit
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone <[repository_url](https://github.com/EESH-JAIN/Movie_Recommender)>
     ```
 
-    (Replace `<repository_url>` with the URL of your repository.)
+    
 
 2.  **Navigate to the project directory:**
 
