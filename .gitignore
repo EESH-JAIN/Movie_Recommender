@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+.virtualenv/
+env.list
+*.egg-info/
+*.egg
+
+# OS generated files #
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Data files (if you don't want to track them)
+#tmdb_5000_movies.csv
+#tmdb_5000_credits.csv
+
+# IDE specific files
+.idea/
+*.swp
+*.swo
+*.vscode/
+
+# Streamlit cache
+.streamlit/cache/
+
+# If you create any other datasets, add them here.
